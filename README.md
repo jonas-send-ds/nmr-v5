@@ -16,4 +16,4 @@ conda env create -f environment.yml
 To update an existing environment from a yaml file (e.g. after new packages have been installed by another user), use:
 ```console
 conda env update -f environment.yml --prune
-``
+```
